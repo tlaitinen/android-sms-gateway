@@ -1,0 +1,46 @@
+<resources>
+    <string name="updates"></string>
+    <string name="eula">Tämä sovellus mahdollistaa puhelimesi käyttämisen tekstiviestien lähettämiseksi ja vastaanottamiseksi kontaktilistalle, jota voit hallita selaimella osoitteessa https://sms.feriko.fi . Käyttääksesi sovellusta, luo käyttäjätili osoitteessa https://sms.feriko.fi . Kirjautumisen jälkeen tämä sovellus lähettää kaikki vastaanottamasi tekstiviestit palveluun osoitteessa https://sms.feriko.fi</string>
+    <string name="app_name">SMS</string>
+    <string name="welcome">Kirjaudu palveluun käyttäjänimellä ja salasanalla. Jos sinulla ei ole vielä tunnuksia, voit rekisteröityä palveluun osoitteessa <a href="https://sms.feriko.fi">https://sms.feriko.fi</a> . Käyttämällä <a href="https://docs.google.com/document/d/1XV6eQVmIr1v1QqtE1Ih_8lkPmOHWgBu0p4fTYmqt4tE/pub">tietosuojaselosteen</a> ehdot.</string>
+    <string name="username">Käyttäjänimi</string>
+    <string name="password">Salasana</string>
+    <string name="button_login">Kirjaudu sisään</string>
+    <string name="button_logout">Kirjaudu ulos</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_sent">Viestin %1$d lähetys onnistui.</string>
+    <string name="message_not_sent">Viestin %1$d lähetys epäonnistui: yleisvirhe.</string>
+    <string name="message_no_service">Viestin %1$d lähetys epäonnistui: ei yhteyttä verkkoon.</string>
+    <string name="message_null_pdu">Viestin %1$d lähetys epäonnistui: ei PDU.ta.</string>
+    <string name="message_radio_off">Viestin %1$d lähetys epäonnistui: radio on pois päältä.</string>
+    <string name="message_unknown">Viestin %1$d lähetys epäonnistui: tuntematon virhe.</string>
+    <string name="message_delivery_ok">Viesti %1$d on vastaanotettu.</string>
+    <string name="message_delivery_fail">Viestin %1$d toimitus epäonnistui.</string>
+    <string name="message_no_sms_feature">Viestin %1$d lähetys epäonnistui: laitteella ei voi lähettää tekstiviestejä.</string>
+    <string name="message_received">Viesti numerosta %1$s: "%2$s".</string>
+    <string name="checking_for_messages">Haetaan toimitettavia viestejä...</string>
+    <string name="clearing_old_pending_message">Poistetaan käsittelemätön viesti %1$d.</string>
+    <string name="not_connected">Ei yhteyttä verkkoon.</string>
+    <string name="dateformat">HH:mm:ss</string>
+    <string name="server_message_queue_status">Palvelimen jonossa on %1$d tekstiviestiä.</string>
+    <string name="accepting_message">Hyväksytään toimitettavaksi viesti %1$d.</string>
+    <string name="message_accepted">Viesti %1$d hyväksytty toimitettavaksi.</string>
+    <string name="sending_message">Lähetetään numeroon %1$s viesti %2$d "%3$s".</string>
+    <string name="invalid_phone_number">Hylätään viesti %1$d virheellisen puhelinnumeron %2$s takia.</string>
+    <string name="error_sending_message">Virhe viestin lähettämisessä: %1$s.</string>
+    <string name="unknown_message">Viestin %1$d tietoja ei löytynyt.</string>
+    <string name="login_ok">Kirjautuminen onnistui.</string>
+    <string name="login_failed">Kirjautuminen epäonnistui.</string>
+    <string name="accept_failed">Viestin %1$d hyväksyminen epäonnistui.</string>
+    <string name="sent_ok">Viesti %1$d kuitattu lähetetyksi.</string>
+    <string name="sent_failed">Viestin %1$d lähetyskuittaus epäonnistui.</string>
+    <string name="exception">Poikkeus: %1$s</string>
+    <string name="fail_ok">Viestin %1$d lähetys kuitattu epäonnistuneeksi.</string>
+    <string name="fail_failed">Viestin %1$d lähetyksen kuittaus epäonnistuneeksi epäonnistui.</string>
+    <string name="received_ok">Vastaanotettu viesti %1$d toimitettu palvelimelle.</string>
+    <string name="received_failed">Vastaanotetun viestin %1$d toimittaminen palvelimelle epäonnistui.</string>
+    <string name="delivered_ok">Viestin %1$d vastaanottokuittaus toimitettu palvelimelle.</string>
+    <string name="delivered_failed">Viestin %1$d vastaanottokuittauksen toimittaminen palvelimelle epäonnistui.</string>
+
+
+</resources>

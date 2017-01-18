@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="updates"></string>
+    <string name="eula">The purpose of this app is to allow you to use your mobile phone as a gateway for sending and receiving SMS to/from a list of contacts you administer at https://sms.feriko.fi using the web browser. To use this app, register at https://sms.feriko.fi . After you login, you can use the web service to send SMS through this app and the app will send all SMS you receive back to the web service. Do you accept?</string>
+    <string name="welcome">Login using username and password. If you do not have an account yet, you can create one at <a href="https://sms.feriko.fi">https://sms.feriko.fi</a> . By using the app, you agree to the <a href="https://docs.google.com/document/d/1XV6eQVmIr1v1QqtE1Ih_8lkPmOHWgBu0p4fTYmqt4tE/pub">Privacy Policy</a>.</string>
+    <string name="app_name">SMS</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_sent">Message %1$d sent successfully.</string>
+    <string name="message_not_sent">Message %1$d not sent: general failure.</string>
+    <string name="message_no_service">Message %1$d not sent: no service.</string>
+    <string name="message_null_pdu">Message %1$d not sent: no PDU.</string>
+    <string name="message_radio_off">Messgae %1$d not sent: radio is off.</string>
+    <string name="message_unknown">Message %1$d not sent: unknown error.</string>
+    <string name="message_delivery_ok">Message %1$d has been delivered.</string>
+    <string name="message_delivery_fail">Delivery failed for message %1$d..</string>
+    <string name="message_no_sms_feature">Message %1$d  not sent: no SMS feature.</string>
+    <string name="message_received">Message from number %1$s: "%2$s".</string>
+    <string name="checking_for_messages">Checking for messages to send...</string>
+    <string name="clearing_old_pending_message">Removing pending message %1$d.</string>
+    <string name="not_connected">No connection to Internet.</string>
+    <string name="dateformat">h:mm:ss aa</string>
+    <string name="server_message_queue_status">There are %1$d messages in the server queue.</string>
+    <string name="accepting_message">Accepting to deliver message %1$d.</string>
+    <string name="message_accepted">Message %1$d accepted to be delivered.</string>
+    <string name="sending_message">Sending message %2$d "%3$s" to number %1$s.</string>
+
+    <string name="invalid_phone_number">Discarding message %1$d due to invalid number %2$s.</string>
+    <string name="error_sending_message">Error while sending message: %1$s.</string>
+    <string name="unknown_message">Cannot send unknown message %1$d.</string>
+    <string name="login_ok">Login successful.</string>
+    <string name="login_failed">Login failed.</string>
+    <string name="accept_failed">Failed to accept message %1$d to be delivered.</string>
+    <string name="sent_ok">Notified the server that message %1$d has been sent.</string>
+    <string name="sent_failed">Failed to notify the server that the message %1$d has been sent.</string>
+    <string name="exception">Exception: %1$s</string>
+    <string name="fail_ok">Notified the server that message %1$d failed to send.</string>
+    <string name="fail_failed">Could not notify the server that message %1$d failed to send.</string>
+    <string name="received_ok">Delivered received message %1$d to the server.</string>
+    <string name="received_failed">Could not deliver the received message %1$d to the server.</string>
+    <string name="delivered_ok">Delivery notification of message %1$d sent to the server.</string>
+    <string name="delivered_failed">Failed to notify the server of the delivery notification of message %1$d.</string>
+
+</resources>
