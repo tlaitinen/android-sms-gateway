@@ -1,4 +1,4 @@
-package fi.feriko.sms;
+package fi.feriko.sms2;
 import android.os.Environment;
 
 import java.io.BufferedReader;

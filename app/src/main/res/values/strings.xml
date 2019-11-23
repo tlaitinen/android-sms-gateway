@@ -2,7 +2,7 @@
 
     <string name="updates"></string>
     <string name="eula">The purpose of this app is to allow you to use your mobile phone as a gateway for sending and receiving SMS to/from a list of contacts you administer at https://sms.feriko.fi using the web browser. To use this app, register at https://sms.feriko.fi . After you login, you can use the web service to send SMS through this app and the app will send all SMS you receive back to the web service. Do you accept?</string>
-    <string name="welcome">Login using username and password. If you do not have an account yet, you can create one at <a href="https://sms.feriko.fi">https://sms.feriko.fi</a> . By using the app, you agree to the <a href="https://docs.google.com/document/d/1XV6eQVmIr1v1QqtE1Ih_8lkPmOHWgBu0p4fTYmqt4tE/pub">Privacy Policy</a>.</string>
+    <string name="welcome">Login using username and password. If you do not have an account yet, you can create one at <a href="https://sms.feriko.fi">https://sms.feriko.fi</a> . By using the app, you agree to the <a href="https://docs.google.com/document/d/e/2PACX-1vRF8ISFvcWGRiVCIvH5Zv-NeOZoTzqw1nZWxHs0fZGBUVx8JVrWC3R07sHBiM6EvNbAJCdnzpCwAIy4/pub">Privacy Policy</a>.</string>
     <string name="app_name">SMS</string>
     <string name="username">Username</string>
     <string name="password">Password</string>

@@ -1,26 +1,27 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion "22.0.1"
-
+    compileSdkVersion 28
+    buildToolsVersion "28.0.0"
     defaultConfig {
-        applicationId "fi.feriko.sms"
+        applicationId "fi.feriko.sms2"
         minSdkVersion 15
-        targetSdkVersion 22
-        versionCode 12
-        versionName "12"
+        targetSdkVersion 28
+        versionCode 2
+        versionName "1.1"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
         release {
             minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:22.2.0'
-    compile 'com.googlecode.libphonenumber:libphonenumber:7.2.1'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.googlecode.libphonenumber:libphonenumber:7.2.1'
 }

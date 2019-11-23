@@ -2,7 +2,7 @@
     <string name="updates"></string>
     <string name="eula">Tämä sovellus mahdollistaa puhelimesi käyttämisen tekstiviestien lähettämiseksi ja vastaanottamiseksi kontaktilistalle, jota voit hallita selaimella osoitteessa https://sms.feriko.fi . Käyttääksesi sovellusta, luo käyttäjätili osoitteessa https://sms.feriko.fi . Kirjautumisen jälkeen tämä sovellus lähettää kaikki vastaanottamasi tekstiviestit palveluun osoitteessa https://sms.feriko.fi</string>
     <string name="app_name">SMS</string>
-    <string name="welcome">Kirjaudu palveluun käyttäjänimellä ja salasanalla. Jos sinulla ei ole vielä tunnuksia, voit rekisteröityä palveluun osoitteessa <a href="https://sms.feriko.fi">https://sms.feriko.fi</a> . Käyttämällä <a href="https://docs.google.com/document/d/1XV6eQVmIr1v1QqtE1Ih_8lkPmOHWgBu0p4fTYmqt4tE/pub">tietosuojaselosteen</a> ehdot.</string>
+    <string name="welcome">Kirjaudu palveluun käyttäjänimellä ja salasanalla. Jos sinulla ei ole vielä tunnuksia, voit rekisteröityä palveluun osoitteessa <a href="https://sms.feriko.fi">https://sms.feriko.fi</a> . Käyttämällä hyväksyt <a href="https://docs.google.com/document/d/e/2PACX-1vRF8ISFvcWGRiVCIvH5Zv-NeOZoTzqw1nZWxHs0fZGBUVx8JVrWC3R07sHBiM6EvNbAJCdnzpCwAIy4/pub">tietosuojaselosteen</a> ehdot.</string>
     <string name="username">Käyttäjänimi</string>
     <string name="password">Salasana</string>
     <string name="button_login">Kirjaudu sisään</string>

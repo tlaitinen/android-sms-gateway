@@ -1,4 +1,4 @@
-package fi.feriko.sms;
+package fi.feriko.sms2;
 import android.app.Activity;
 import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
